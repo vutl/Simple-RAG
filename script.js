@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const URL = 'https://payload.vextapp.com/hook/AN3PDMANNO/catch/$(channel_token)';
 
-    const initialBgUrl = 'https://assets.onecompiler.app/42vfh45kv/42vfh3ke8/DSCF9531.JPG'; 
+    const initialBgUrl = 'DSCF9531.JPG'; 
 
     document.body.style.backgroundImage = `url(${initialBgUrl})`;
 
